@@ -1,0 +1,47 @@
+{
+  "operacoesCredito": {
+    "ano": 2025,
+    "idEsferaAdministrativa": 81,
+    "nomeEsferaAdministrativa": null,
+    "valor": 409537584.45,
+    "valor2": null,
+    "colunas": [],
+    "valores": {}
+  },
+  "outrasTransferencias": {
+    "ano": 2025,
+    "idEsferaAdministrativa": 81,
+    "nomeEsferaAdministrativa": null,
+    "valor": 1714178271.89,
+    "valor2": null,
+    "colunas": [],
+    "valores": {}
+  },
+  "receitasEstado": {
+    "ano": 2025,
+    "idEsferaAdministrativa": 81,
+    "nomeEsferaAdministrativa": null,
+    "valor": 17519981548.87,
+    "valor2": null,
+    "colunas": [],
+    "valores": {}
+  },
+  "transferenciasUniao": {
+    "ano": 2025,
+    "idEsferaAdministrativa": 81,
+    "nomeEsferaAdministrativa": null,
+    "valor": 5753707651.03,
+    "valor2": null,
+    "colunas": [],
+    "valores": {}
+  },
+  "receitasIntra": {
+    "ano": 2025,
+    "idEsferaAdministrativa": 81,
+    "nomeEsferaAdministrativa": null,
+    "valor": 350593484.82,
+    "valor2": null,
+    "colunas": [],
+    "valores": {}
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "ano": 2020,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "aplicacao": 3170529019.59,
+      "aplicacaoPercentual": 26.98
+    }
+  },
+  {
+    "ano": 2021,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "aplicacao": 3901128158.11,
+      "aplicacaoPercentual": 25.85
+    }
+  },
+  {
+    "ano": 2022,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "aplicacao": 4377038795.09,
+      "aplicacaoPercentual": 25.76
+    }
+  },
+  {
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "aplicacao": 4770453574.96,
+      "aplicacaoPercentual": 25.61
+    }
+  },
+  {
+    "ano": 2024,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "aplicacao": 5435575175.65,
+      "aplicacaoPercentual": 25.72
+    }
+  }
+]

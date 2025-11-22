@@ -1,0 +1,22 @@
+[
+  {
+    "mes": 12,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": 25896341219.57,
+    "valor2": null,
+    "colunas": [],
+    "valores": {}
+  },
+  {
+    "mes": 12,
+    "ano": 2024,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": 29223469784.54,
+    "valor2": null,
+    "colunas": [],
+    "valores": {}
+  }
+]

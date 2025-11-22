@@ -1,0 +1,170 @@
+[
+  {
+    "mes": 1,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "receitaCorrenteLiquida": 1471467318.11,
+      "aplicacao": 194515380.12,
+      "aplicacaoPercentual": 13.219143757120058
+    }
+  },
+  {
+    "mes": 2,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "receitaCorrenteLiquida": 2950350186.06,
+      "aplicacao": 435109908.76,
+      "aplicacaoPercentual": 14.74773777078513
+    }
+  },
+  {
+    "mes": 3,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "receitaCorrenteLiquida": 4277679085.7,
+      "aplicacao": 676574804.88,
+      "aplicacaoPercentual": 15.816399297968497
+    }
+  },
+  {
+    "mes": 4,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "receitaCorrenteLiquida": 5990120463.81,
+      "aplicacao": 955099940.92,
+      "aplicacaoPercentual": 15.944586535284989
+    }
+  },
+  {
+    "mes": 5,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "receitaCorrenteLiquida": 7454096417.15,
+      "aplicacao": 1228108236.29,
+      "aplicacaoPercentual": 16.475615119016062
+    }
+  },
+  {
+    "mes": 6,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "receitaCorrenteLiquida": 8941444830.97,
+      "aplicacao": 1505562328.14,
+      "aplicacaoPercentual": 16.838020662223013
+    }
+  },
+  {
+    "mes": 7,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "receitaCorrenteLiquida": 10388076235.78,
+      "aplicacao": 1789448755.32,
+      "aplicacaoPercentual": 17.225987899054317
+    }
+  },
+  {
+    "mes": 8,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "receitaCorrenteLiquida": 11951280809.6,
+      "aplicacao": 2093878872.03,
+      "aplicacaoPercentual": 17.520121109932155
+    }
+  },
+  {
+    "mes": 9,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "receitaCorrenteLiquida": 13446163998.62,
+      "aplicacao": 2357767487.29,
+      "aplicacaoPercentual": 17.534870819156907
+    }
+  },
+  {
+    "mes": 10,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "receitaCorrenteLiquida": 14897236555.13,
+      "aplicacao": 2597036013.89,
+      "aplicacaoPercentual": 17.433005136752605
+    }
+  },
+  {
+    "mes": 11,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "receitaCorrenteLiquida": 16648536436.1,
+      "aplicacao": 2832291347.93,
+      "aplicacaoPercentual": 17.01225425310405
+    }
+  },
+  {
+    "mes": 12,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "receitaCorrenteLiquida": 18624677282.49,
+      "aplicacao": 3201510443.51,
+      "aplicacaoPercentual": 17.189615663944426
+    }
+  }
+]

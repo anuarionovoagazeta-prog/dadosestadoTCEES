@@ -1,0 +1,194 @@
+[
+  {
+    "mes": 1,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "despesaEmpenhada": 11935990593.46,
+      "despesaLiquidada": 1213766237.72,
+      "despesaPaga": 1129252451.36,
+      "receitaArrecadada": 1763150921.92,
+      "receitaPrevista": 22507308118.0
+    }
+  },
+  {
+    "mes": 2,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "despesaEmpenhada": 1252614439.18,
+      "despesaLiquidada": 1435585070.07,
+      "despesaPaga": 1401096808.07,
+      "receitaArrecadada": 1901702151.41,
+      "receitaPrevista": 0.0
+    }
+  },
+  {
+    "mes": 3,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "despesaEmpenhada": 1313044997.35,
+      "despesaLiquidada": 1716765427.28,
+      "despesaPaga": 1720604564.19,
+      "receitaArrecadada": 1712628743.01,
+      "receitaPrevista": 0.0
+    }
+  },
+  {
+    "mes": 4,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "despesaEmpenhada": 982371920.6,
+      "despesaLiquidada": 1743335404.21,
+      "despesaPaga": 1661518219.94,
+      "receitaArrecadada": 2186299399.01,
+      "receitaPrevista": 0.0
+    }
+  },
+  {
+    "mes": 5,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "despesaEmpenhada": 1428239110.27,
+      "despesaLiquidada": 1881715713.1,
+      "despesaPaga": 1908931292.52,
+      "receitaArrecadada": 2188134639.85,
+      "receitaPrevista": 0.0
+    }
+  },
+  {
+    "mes": 6,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "despesaEmpenhada": 1199271572.84,
+      "despesaLiquidada": 1947210278.09,
+      "despesaPaga": 1956803309.84,
+      "receitaArrecadada": 1830839224.44,
+      "receitaPrevista": 0.0
+    }
+  },
+  {
+    "mes": 7,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "despesaEmpenhada": 1015643801.1,
+      "despesaLiquidada": 2002090679.01,
+      "despesaPaga": 1955786718.09,
+      "receitaArrecadada": 2499682949.01,
+      "receitaPrevista": 0.0
+    }
+  },
+  {
+    "mes": 8,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "despesaEmpenhada": 1107486940.65,
+      "despesaLiquidada": 2077749146.66,
+      "despesaPaga": 2011713325.1,
+      "receitaArrecadada": 2419474090.87,
+      "receitaPrevista": 0.0
+    }
+  },
+  {
+    "mes": 9,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "despesaEmpenhada": 1049545435.54,
+      "despesaLiquidada": 1974367192.57,
+      "despesaPaga": 2064550737.33,
+      "receitaArrecadada": 2209791078.57,
+      "receitaPrevista": 0.0
+    }
+  },
+  {
+    "mes": 10,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "despesaEmpenhada": 1388645605.18,
+      "despesaLiquidada": 2014231942.52,
+      "despesaPaga": 1979061127.09,
+      "receitaArrecadada": 2031004323.8,
+      "receitaPrevista": 0.0
+    }
+  },
+  {
+    "mes": 11,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "despesaEmpenhada": 1121960446.37,
+      "despesaLiquidada": 2164931393.15,
+      "despesaPaga": 2140342034.07,
+      "receitaArrecadada": 2453272548.75,
+      "receitaPrevista": 0.0
+    }
+  },
+  {
+    "mes": 12,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "despesaEmpenhada": 1303904396.33,
+      "despesaLiquidada": 3496008799.93,
+      "despesaPaga": 3174960322.08,
+      "receitaArrecadada": 2700361148.93,
+      "receitaPrevista": 0.0
+    }
+  }
+]

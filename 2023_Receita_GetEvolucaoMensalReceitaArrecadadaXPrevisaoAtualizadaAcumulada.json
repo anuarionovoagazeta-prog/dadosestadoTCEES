@@ -1,0 +1,158 @@
+[
+  {
+    "mes": 1,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "realizado": 1763150921.92,
+      "previsto": 1875609009.8333333
+    }
+  },
+  {
+    "mes": 2,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "realizado": 3664853073.33,
+      "previsto": 3751218019.6666665
+    }
+  },
+  {
+    "mes": 3,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "realizado": 5377481816.34,
+      "previsto": 5628715370.7625
+    }
+  },
+  {
+    "mes": 4,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "realizado": 7563781215.35,
+      "previsto": 7504953827.683333
+    }
+  },
+  {
+    "mes": 5,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "realizado": 9751915855.2,
+      "previsto": 9392728170.05
+    }
+  },
+  {
+    "mes": 6,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "realizado": 11582755079.64,
+      "previsto": 11271273804.06
+    }
+  },
+  {
+    "mes": 7,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "realizado": 14082438028.65,
+      "previsto": 13156715112.951666
+    }
+  },
+  {
+    "mes": 8,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "realizado": 16501912119.52,
+      "previsto": 15060903874.433332
+    }
+  },
+  {
+    "mes": 9,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "realizado": 18711703198.09,
+      "previsto": 17182694133.39
+    }
+  },
+  {
+    "mes": 10,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "realizado": 20742707521.89,
+      "previsto": 19447978912.316666
+    }
+  },
+  {
+    "mes": 11,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "realizado": 23195980070.64,
+      "previsto": 21682606100.65
+    }
+  },
+  {
+    "mes": 12,
+    "ano": 2023,
+    "idEsferaAdministrativa": 0,
+    "nomeEsferaAdministrativa": null,
+    "valor": null,
+    "valor2": null,
+    "colunas": [],
+    "valores": {
+      "realizado": 25896341219.57,
+      "previsto": 24216037418.5
+    }
+  }
+]
