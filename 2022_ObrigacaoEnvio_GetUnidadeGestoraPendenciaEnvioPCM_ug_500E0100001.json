@@ -1,0 +1,110 @@
+[
+  {
+    "mes": 1,
+    "dataLimite": "2022-03-20T23:59:59-03:00",
+    "dataHomologacao": "2022-02-25T09:57:39.18-03:00",
+    "naoEnviaFolha": false,
+    "emDia": true,
+    "comAtraso": false,
+    "comDebito": false
+  },
+  {
+    "mes": 2,
+    "dataLimite": "2022-03-20T23:59:59-03:00",
+    "dataHomologacao": "2022-03-15T08:09:54.707-03:00",
+    "naoEnviaFolha": false,
+    "emDia": true,
+    "comAtraso": false,
+    "comDebito": false
+  },
+  {
+    "mes": 3,
+    "dataLimite": "2022-04-11T23:59:59-03:00",
+    "dataHomologacao": "2022-04-07T14:30:59-03:00",
+    "naoEnviaFolha": false,
+    "emDia": true,
+    "comAtraso": false,
+    "comDebito": false
+  },
+  {
+    "mes": 4,
+    "dataLimite": "2022-05-10T23:59:59-03:00",
+    "dataHomologacao": "2022-05-09T18:51:16.413-03:00",
+    "naoEnviaFolha": false,
+    "emDia": true,
+    "comAtraso": false,
+    "comDebito": false
+  },
+  {
+    "mes": 5,
+    "dataLimite": "2022-06-10T23:59:59-03:00",
+    "dataHomologacao": "2022-06-09T12:29:16.737-03:00",
+    "naoEnviaFolha": false,
+    "emDia": true,
+    "comAtraso": false,
+    "comDebito": false
+  },
+  {
+    "mes": 6,
+    "dataLimite": "2022-07-11T23:59:59-03:00",
+    "dataHomologacao": "2022-07-07T16:34:22.657-03:00",
+    "naoEnviaFolha": false,
+    "emDia": true,
+    "comAtraso": false,
+    "comDebito": false
+  },
+  {
+    "mes": 7,
+    "dataLimite": "2022-08-10T23:59:59-03:00",
+    "dataHomologacao": "2022-08-10T10:05:18.347-03:00",
+    "naoEnviaFolha": false,
+    "emDia": true,
+    "comAtraso": false,
+    "comDebito": false
+  },
+  {
+    "mes": 8,
+    "dataLimite": "2022-09-12T23:59:59-03:00",
+    "dataHomologacao": "2022-09-09T15:22:01.23-03:00",
+    "naoEnviaFolha": false,
+    "emDia": true,
+    "comAtraso": false,
+    "comDebito": false
+  },
+  {
+    "mes": 9,
+    "dataLimite": "2022-10-10T23:59:59-03:00",
+    "dataHomologacao": "2022-10-07T17:33:17.323-03:00",
+    "naoEnviaFolha": false,
+    "emDia": true,
+    "comAtraso": false,
+    "comDebito": false
+  },
+  {
+    "mes": 10,
+    "dataLimite": "2022-11-10T23:59:59-03:00",
+    "dataHomologacao": "2022-11-09T14:53:11.443-03:00",
+    "naoEnviaFolha": false,
+    "emDia": true,
+    "comAtraso": false,
+    "comDebito": false
+  },
+  {
+    "mes": 11,
+    "dataLimite": "2022-12-12T23:59:59-03:00",
+    "dataHomologacao": "2022-12-07T09:32:57.723-03:00",
+    "naoEnviaFolha": false,
+    "emDia": true,
+    "comAtraso": false,
+    "comDebito": false
+  },
+  {
+    "mes": 12,
+    "dataLimite": "2023-02-10T23:59:59-03:00",
+    "dataHomologacao": "2023-02-03T15:24:16.603-03:00",
+    "naoEnviaFolha": false,
+    "emDia": true,
+    "comAtraso": false,
+    "comDebito": false
+  }
+]

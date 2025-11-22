@@ -1,0 +1,2110 @@
+[
+  {
+    "codigoPai": null,
+    "codigo": "1",
+    "label": "RECEITAS CORRENTES",
+    "value": 16127727779.06,
+    "canDrillDown": false,
+    "fillcolor": null,
+    "data": [
+      {
+        "codigoPai": "1",
+        "codigo": "17",
+        "label": "TRANSFERÊNCIAS CORRENTES",
+        "value": 5978319181.56,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "17",
+            "codigo": "176",
+            "label": "TRANSFERÊNCIAS DE CONVÊNIOS",
+            "value": 18379722.55,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "176",
+                "codigo": "1764",
+                "label": "TRANSFERÊNCIA DE CONVÊNIOS DE INSTITUIÇÕES PRIVADAS",
+                "value": 3036040.76,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1764",
+                    "codigo": "176401",
+                    "label": "TRANSFERÊNCIA DE CONVÊNIOS DE INSTITUIÇÕES PRIVADAS",
+                    "value": 3036040.76,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "176",
+                "codigo": "1761",
+                "label": "TRANSFERÊNCIAS DE CONVÊNIOS DA UNIÃO E DE SUAS ENTIDADES",
+                "value": 15343681.79,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1761",
+                    "codigo": "176199",
+                    "label": "OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS DA UNIÃO",
+                    "value": 15238503.79,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1761",
+                    "codigo": "176102",
+                    "label": "TRANSFERÊNCIAS DE CONVÊNIOS DA UNIÃO DESTINADAS A PROGRAMAS DE EDUCAÇÃO",
+                    "value": 5310.0,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1761",
+                    "codigo": "176101",
+                    "label": "TRANSFERÊNCIAS DE CONVÊNIOS DA UNIÃO PARA O SISTEMA ÚNICO DE SAÚDE ? SUS",
+                    "value": 99868.0,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "17",
+            "codigo": "173",
+            "label": "TRANSFERÊNCIAS DE INSTITUIÇÕES PRIVADAS",
+            "value": 1575806.51,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "173",
+                "codigo": "1730",
+                "label": "TRANSFERÊNCIAS DE INSTITUIÇÕES PRIVADAS",
+                "value": 1575806.51,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1730",
+                    "codigo": "173001",
+                    "label": "TRANSFERÊNCIAS DE INSTITUIÇÕES PRIVADAS",
+                    "value": 1575806.51,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "17",
+            "codigo": "172",
+            "label": "TRANSFERÊNCIAS INTERGOVERNAMENTAIS",
+            "value": 5958193838.18,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "172",
+                "codigo": "1721",
+                "label": "TRANSFERÊNCIAS DA UNIÃO",
+                "value": 4913512566.56,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1721",
+                    "codigo": "172122",
+                    "label": "TRANSFERÊNCIA DA COMPENSAÇÃO FINANCEIRA PELA EXPLORAÇÃO DE RECURSOS NATURAIS",
+                    "value": 1218576385.36,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1721",
+                    "codigo": "172199",
+                    "label": "OUTRAS TRANSFERÊNCIAS DA UNIÃO",
+                    "value": 1358061403.2,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1721",
+                    "codigo": "172135",
+                    "label": "TRANSFERÊNCIAS DE RECURSOS DO FUNDO NACIONAL DO DESENVOLVIMENTO DA EDUCAÇÃO - FNDE",
+                    "value": 76265040.76,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1721",
+                    "codigo": "172101",
+                    "label": "PARTICIPAÇÃO NA RECEITA DA UNIÃO",
+                    "value": 1309715431.32,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1721",
+                    "codigo": "172134",
+                    "label": "TRANSFERÊNCIAS DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS",
+                    "value": 832987.19,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1721",
+                    "codigo": "172133",
+                    "label": "TRANSFERÊNCIA DE RECURSOS DO SISTEMA ÚNICO DE SAÚDE - SUS - REPASSES FUNDO A FUNDO",
+                    "value": 950061318.73,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "172",
+                "codigo": "1724",
+                "label": "TRANSFERÊNCIAS MULTIGOVERNAMENTAIS",
+                "value": 1035123125.03,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1724",
+                    "codigo": "172401",
+                    "label": "TRANSFERÊNCIAS DE RECURSOS DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO ? FUNDEB",
+                    "value": 1035123125.03,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "172",
+                "codigo": "1723",
+                "label": "TRANSFERÊNCIAS DOS MUNICÍPIOS",
+                "value": 9558146.59,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1723",
+                    "codigo": "172301",
+                    "label": "TRANSFERÊNCIAS DE RECURSOS DO SISTEMA ÚNICO DE SAÚDE - SUS",
+                    "value": 9558146.59,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "17",
+            "codigo": "175",
+            "label": "TRANSFERÊNCIAS DE PESSOAS",
+            "value": 169814.32,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "175",
+                "codigo": "1750",
+                "label": "TRANSFERÊNCIAS DE PESSOAS",
+                "value": 169814.32,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1750",
+                    "codigo": "175001",
+                    "label": "TRANSFERÊNCIAS DE PESSOAS",
+                    "value": 169814.32,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "codigoPai": "1",
+        "codigo": "15",
+        "label": "RECEITA INDUSTRIAL",
+        "value": 6312885.22,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "15",
+            "codigo": "152",
+            "label": "RECEITA DA INDÚSTRIA DE TRANSFORMAÇÃO",
+            "value": 6312885.22,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "152",
+                "codigo": "1520",
+                "label": "RECEITA DA INDÚSTRIA DE TRANSFORMAÇÃO",
+                "value": 6312885.22,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1520",
+                    "codigo": "152029",
+                    "label": "RECEITA DA INDÚSTRIA EDITORIAL E GRÁFICA",
+                    "value": 6312885.22,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "codigoPai": "1",
+        "codigo": "14",
+        "label": "RECEITA AGROPECUÁRIA",
+        "value": 174146.32,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "14",
+            "codigo": "149",
+            "label": "OUTRAS RECEITAS AGROPECUÁRIAS",
+            "value": 174146.32,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "149",
+                "codigo": "1490",
+                "label": "OUTRAS RECEITAS AGROPECUÁRIAS",
+                "value": 174146.32,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1490",
+                    "codigo": "149099",
+                    "label": "OUTRAS RECEITAS AGROPECUÁRIAS",
+                    "value": 174146.32,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "codigoPai": "1",
+        "codigo": "16",
+        "label": "RECEITA DE SERVIÇOS",
+        "value": 42740522.76,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "16",
+            "codigo": "160",
+            "label": "RECEITA DE SERVIÇOS",
+            "value": 42740522.76,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "160",
+                "codigo": "1600",
+                "label": "RECEITA DE SERVIÇOS",
+                "value": 42740522.76,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1600",
+                    "codigo": "160014",
+                    "label": "SERVIÇOS DE INSPEÇÃO E FISCALIZAÇÃO",
+                    "value": 588052.85,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1600",
+                    "codigo": "160019",
+                    "label": "SERVIÇOS RECREATIVOS E CULTURAIS",
+                    "value": 1000.0,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1600",
+                    "codigo": "160024",
+                    "label": "SERVIÇOS DE REGISTRO DO COMÉRCIO",
+                    "value": 17292422.66,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1600",
+                    "codigo": "160004",
+                    "label": "SERVIÇOS DE COMUNICAÇÃO",
+                    "value": 542859.43,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1600",
+                    "codigo": "160017",
+                    "label": "SERVIÇOS AGROPECUÁRIOS",
+                    "value": 2598634.08,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1600",
+                    "codigo": "160001",
+                    "label": "SERVIÇOS COMERCIAIS",
+                    "value": 66045.11,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1600",
+                    "codigo": "160013",
+                    "label": "SERVIÇOS ADMINISTRATIVOS",
+                    "value": 3525373.72,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1600",
+                    "codigo": "160099",
+                    "label": "OUTROS SERVIÇOS",
+                    "value": 16178308.25,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1600",
+                    "codigo": "160008",
+                    "label": "SERVIÇOS DE PROCESSAMENTO DE DADOS",
+                    "value": 1947826.66,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "codigoPai": "1",
+        "codigo": "12",
+        "label": "RECEITA DE CONTRIBUIÇÕES",
+        "value": 476483801.66,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "12",
+            "codigo": "121",
+            "label": "CONTRIBUIÇÕES SOCIAIS",
+            "value": 476483801.66,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "121",
+                "codigo": "1210",
+                "label": "CONTRIBUIÇÕES SOCIAIS",
+                "value": 476483801.66,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1210",
+                    "codigo": "121099",
+                    "label": "OUTRAS CONTRIBUIÇÕES SOCIAIS",
+                    "value": 920.3,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1210",
+                    "codigo": "121049",
+                    "label": "CONTRIBUIÇÃO SOBRE COMPLEMENTAÇÃO DE APOSENTADORIA E PENSÃO",
+                    "value": 170653.53,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1210",
+                    "codigo": "121050",
+                    "label": "CONTRIBUIÇÃO DE EX-DEPUTADOS PENSIONISTAS DO EXTINTO IPDE - ALES - LEI 4.541/91",
+                    "value": 340700.29,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1210",
+                    "codigo": "121029",
+                    "label": "CONTRIBUIÇÕES PARA O REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR PÚBLICO",
+                    "value": 475971527.54,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "codigoPai": "1",
+        "codigo": "13",
+        "label": "RECEITA PATRIMONIAL",
+        "value": 434493343.77,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "13",
+            "codigo": "139",
+            "label": "OUTRAS RECEITAS PATRIMONIAIS",
+            "value": 7200.0,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "139",
+                "codigo": "1390",
+                "label": "OUTRAS RECEITAS PATRIMONIAIS",
+                "value": 7200.0,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1390",
+                    "codigo": "139099",
+                    "label": "OUTRAS RECEITAS PATRIMONIAIS",
+                    "value": 7200.0,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "13",
+            "codigo": "133",
+            "label": "RECEITA DE CONCESSÕES E PERMISSÕES",
+            "value": 556334.67,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "133",
+                "codigo": "1333",
+                "label": "RECEITA DE CONCESSÕES E PERMISSÕES - DIREITOS DE USO DE BENS PÚBLICOS",
+                "value": 529622.06,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1333",
+                    "codigo": "133399",
+                    "label": "OUTRAS RECEITAS DE CONCESSÕES E PERMISSÕES - DIREITOS DE USO DE BENS PÚBLICOS",
+                    "value": 529622.06,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "133",
+                "codigo": "1331",
+                "label": "RECEITA DE CONCESSÕES E PERMISSÕES - SERVIÇOS",
+                "value": 19458.71,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1331",
+                    "codigo": "133199",
+                    "label": "OUTRAS RECEITAS DE CONCESSÕES E PERMISSÕES - SERVIÇOS",
+                    "value": 19458.71,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "133",
+                "codigo": "1332",
+                "label": "RECEITA DE CONCESSÕES E PERMISSÕES - EXPLORAÇÃO DE RECURSOS NATURAIS",
+                "value": 7253.9,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1332",
+                    "codigo": "133201",
+                    "label": "RECEITA DE OUTORGA DOS SERVIÇOS DE EXPLORAÇÃO E PRODUÇÃO DE PETRÓLEO E GÁS NATURAL",
+                    "value": 7253.9,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "13",
+            "codigo": "132",
+            "label": "RECEITAS DE VALORES MOBILIÁRIOS",
+            "value": 425493905.86,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "132",
+                "codigo": "1325",
+                "label": "REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS",
+                "value": 122253446.65,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1325",
+                    "codigo": "132503",
+                    "label": "DEPÓSITOS DE RECURSOS DE OUTRAS FONTES",
+                    "value": 17182742.99,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1325",
+                    "codigo": "132502",
+                    "label": "DEPÓSITOS DE RECURSOS DO TESOURO - NÃO VINCULADOS",
+                    "value": 49560446.11,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1325",
+                    "codigo": "132501",
+                    "label": "DEPÓSITOS DE RECURSOS DO TESOURO - VINCULADOS",
+                    "value": 55510257.55,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "132",
+                "codigo": "1328",
+                "label": "REMUNERAÇÃO DOS INVESTIMENTOS DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR",
+                "value": 234696121.15,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1328",
+                    "codigo": "132820",
+                    "label": "REMUNERAÇÃO DOS INVESTIMENTOS DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR EM RENDA VARIÁVEL",
+                    "value": 34578538.49,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1328",
+                    "codigo": "132810",
+                    "label": "REMUNERAÇÃO DOS INVESTIMENTOS DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR EM RENDA FIXA",
+                    "value": 200117582.66,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "132",
+                "codigo": "1322",
+                "label": "DIVIDENDOS, PARTICIPAÇÕES E JUROS SOBRE O CAPITAL PRÓPRIO",
+                "value": 68544338.06,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1322",
+                    "codigo": "132204",
+                    "label": "DIVIDENDOS PAGOS PELO BANESTES - MÉTODO DE CUSTO",
+                    "value": 103419.47,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1322",
+                    "codigo": "132201",
+                    "label": "DIVIDENDOS PAGOS PELO BANESTES - MEP",
+                    "value": 68438914.52,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1322",
+                    "codigo": "132299",
+                    "label": "OUTROS DIVIDENDOS",
+                    "value": 2004.07,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "13",
+            "codigo": "131",
+            "label": "RECEITAS IMOBILIÁRIAS",
+            "value": 682736.14,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "131",
+                "codigo": "1311",
+                "label": "ALUGUÉIS",
+                "value": 668678.09,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1311",
+                    "codigo": "131101",
+                    "label": "ALUGUÉIS",
+                    "value": 668678.09,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "131",
+                "codigo": "1312",
+                "label": "ARRENDAMENTOS",
+                "value": 14058.05,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1312",
+                    "codigo": "131201",
+                    "label": "ARRENDAMENTOS",
+                    "value": 14058.05,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "13",
+            "codigo": "134",
+            "label": "COMPENSAÇÕES FINANCEIRAS",
+            "value": 7753167.1,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "134",
+                "codigo": "1340",
+                "label": "COMPENSAÇÕES FINANCEIRAS",
+                "value": 7753167.1,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1340",
+                    "codigo": "134011",
+                    "label": "RECEITA DE COMPENSAÇÕES AMBIENTAIS",
+                    "value": 7753167.1,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "codigoPai": "1",
+        "codigo": "11",
+        "label": "RECEITA TRIBUTÁRIA",
+        "value": 8757585212.38,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "11",
+            "codigo": "112",
+            "label": "TAXAS",
+            "value": 668881858.03,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "112",
+                "codigo": "1121",
+                "label": "TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA",
+                "value": 95828467.94,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1121",
+                    "codigo": "112137",
+                    "label": "TAXA DE REGULAÇÃO DE SERVIÇOS DE GÁS CANALIZADO",
+                    "value": 3894263.43,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1121",
+                    "codigo": "112199",
+                    "label": "OUTRAS TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA",
+                    "value": 17214317.81,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1121",
+                    "codigo": "112190",
+                    "label": "TAXA DE FISCALIZAÇÃO SOBRE OS ATOS PRATICADOS PELOS SERVIÇOS NOTARIAIS E DE REGISTRO DO ES",
+                    "value": 74719886.7,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "112",
+                "codigo": "1122",
+                "label": "TAXAS PELA PRESTAÇÃO DE SERVIÇOS",
+                "value": 573053390.09,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1122",
+                    "codigo": "112208",
+                    "label": "EMOLUMENTOS E CUSTAS JUDICIAIS",
+                    "value": 40094696.89,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1122",
+                    "codigo": "112229",
+                    "label": "TAXA DE SERVIÇO DE DETONAÇÃO",
+                    "value": 396.46,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1122",
+                    "codigo": "112223",
+                    "label": "TAXA DE ASSISTÊNCIA TÉCNICA",
+                    "value": 33386.68,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1122",
+                    "codigo": "112299",
+                    "label": "OUTRAS TAXAS PELA PRESTAÇÃO DE SERVIÇOS",
+                    "value": 532924676.91,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1122",
+                    "codigo": "112212",
+                    "label": "EMOLUMENTOS E CUSTAS PROCESSUAIS ADMINISTRATIVAS",
+                    "value": 233.15,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "11",
+            "codigo": "111",
+            "label": "IMPOSTOS",
+            "value": 8088703354.35,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "111",
+                "codigo": "1113",
+                "label": "IMPOSTO SOBRE A PRODUÇÃO E A CIRCULAÇÃO",
+                "value": 7020166561.22,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1113",
+                    "codigo": "111302",
+                    "label": "IMPOSTO SOBRE OPERAÇÕES RELATIVAS À CIRCULAÇÃO DE MERCADORIAS E SOBRE PRESTAÇÕES DE SERVIÇOS DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICAÇÃO",
+                    "value": 7020166561.22,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "111",
+                "codigo": "1112",
+                "label": "IMPOSTOS SOBRE O PATRIMÔNIO E A RENDA",
+                "value": 1068536793.13,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1112",
+                    "codigo": "111205",
+                    "label": "IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULOS AUTOMOTORES",
+                    "value": 241510406.9,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1112",
+                    "codigo": "111207",
+                    "label": "\"IMPOSTO SOBRE TRANSMISSÃO \"\"CAUSA MORTIS\"\" E DOAÇÃO DE BENS E DIREITOS\"",
+                    "value": 58989862.83,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1112",
+                    "codigo": "111204",
+                    "label": "IMPOSTO SOBRE A RENDA E PROVENTOS QUALQUER NATUREZA",
+                    "value": 768036523.4,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "codigoPai": "1",
+        "codigo": "19",
+        "label": "OUTRAS RECEITAS CORRENTES",
+        "value": 431618685.39,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "19",
+            "codigo": "193",
+            "label": "RECEITA DA DÍVIDA ATIVA",
+            "value": 67879468.07,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "193",
+                "codigo": "1931",
+                "label": "RECEITA DA DÍVIDA ATIVA TRIBUTÁRIA",
+                "value": 61934353.28,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1931",
+                    "codigo": "193114",
+                    "label": "RECEITA DA DÍVIDA ATIVA DO IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULOS AUTOMOTORES ? IPVA",
+                    "value": 209623.85,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1931",
+                    "codigo": "193120",
+                    "label": "RECEITA DA DÍVIDA ATIVA DO IMPOSTO SOBRE TRANSMISSÃO ?CAUSA MORTIS? E DOAÇÃO DE BENS E DIREITOS ? ITCD",
+                    "value": 520118.41,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1931",
+                    "codigo": "193115",
+                    "label": "RECEITA DA DÍVIDA ATIVA DO IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E PRESTAÇÃO DE SERVIÇOS ? ICMS",
+                    "value": 61204611.02,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "193",
+                "codigo": "1932",
+                "label": "RECEITA DA DÍVIDA ATIVA NÃO TRIBUTÁRIA",
+                "value": 5945114.79,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1932",
+                    "codigo": "193299",
+                    "label": "RECEITA DA DÍVIDA ATIVA NÃO TRIBUTÁRIA DE OUTRAS RECEITAS",
+                    "value": 5945114.79,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "19",
+            "codigo": "191",
+            "label": "MULTAS E JUROS DE MORA",
+            "value": 197712240.98,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "191",
+                "codigo": "1918",
+                "label": "MULTAS E JUROS DE MORA DE OUTRAS RECEITAS",
+                "value": 10837.94,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1918",
+                    "codigo": "191899",
+                    "label": "OUTRAS MULTAS E JUROS DE MORA",
+                    "value": 10837.94,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "191",
+                "codigo": "1919",
+                "label": "MULTAS DE OUTRAS ORIGENS",
+                "value": 104758033.49,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1919",
+                    "codigo": "191938",
+                    "label": "MULTA POR INFRAÇÃO À LEGISLAÇÃO DE RECURSOS HÍDRICOS",
+                    "value": 1000.0,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1919",
+                    "codigo": "191942",
+                    "label": "MULTAS VEGETAL/AGROTÓXICO",
+                    "value": 172923.07,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1919",
+                    "codigo": "191960",
+                    "label": "MULTA POR INFRAÇÃO À LEGISLAÇÃO DE LICITAÇÃO",
+                    "value": 1642509.26,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1919",
+                    "codigo": "191948",
+                    "label": "MULTAS APLICADAS PELOS TRIBUNAIS DE CONTAS",
+                    "value": 2000.0,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1919",
+                    "codigo": "191935",
+                    "label": "MULTAS POR DANOS AMBIENTAIS",
+                    "value": 100710.98,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1919",
+                    "codigo": "191927",
+                    "label": "MULTAS E JUROS PREVISTOS EM CONTRATOS",
+                    "value": 399883.63,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1919",
+                    "codigo": "191999",
+                    "label": "OUTRAS MULTAS",
+                    "value": 102439006.55,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "191",
+                "codigo": "1912",
+                "label": "MULTAS E JUROS DE MORA DAS CONTRIBUIÇÕES",
+                "value": 618659.69,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1912",
+                    "codigo": "191229",
+                    "label": "MULTAS E JUROS DE MORA DAS CONTRIBUIÇÕES PARA O REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR",
+                    "value": 618659.69,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "191",
+                "codigo": "1911",
+                "label": "MULTAS E JUROS DE MORA DOS TRIBUTOS",
+                "value": 74680425.33,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1911",
+                    "codigo": "191121",
+                    "label": "MULTAS E JUROS DE MORA DO IMPOSTO SOBRE TRANSMISSÃO ?CAUSA MORTIS? E DOAÇÃO DE BENS E DIREITOS",
+                    "value": 1643256.92,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1911",
+                    "codigo": "191142",
+                    "label": "MULTAS E JUROS DE MORA DO IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS ? ICMS",
+                    "value": 55739390.43,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1911",
+                    "codigo": "191141",
+                    "label": "MULTAS E JUROS DE MORA DO IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULOS AUTOMOTORES ? IPVA",
+                    "value": 17297777.98,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "191",
+                "codigo": "1913",
+                "label": "MULTA E JUROS DE MORA DA DÍVIDA ATIVA DOS TRIBUTOS",
+                "value": 17644284.53,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1913",
+                    "codigo": "191315",
+                    "label": "MULTAS E JUROS DE MORA DA DÍVIDA ATIVA DO IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E PRESTAÇÃO DE SERVIÇOS ? ICMS",
+                    "value": 17644284.53,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "19",
+            "codigo": "199",
+            "label": "RECEITAS DIVERSAS",
+            "value": 46576945.66,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "199",
+                "codigo": "1990",
+                "label": "RECEITAS DIVERSAS",
+                "value": 46576945.66,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1990",
+                    "codigo": "199022",
+                    "label": "RECEITA DE SEGUROS DECORRENTE DA INDENIZAÇÃO POR SINISTRO",
+                    "value": 599.0,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1990",
+                    "codigo": "199009",
+                    "label": "CORREÇÃO MONETÁRIA DE ICMS, IPVA E ITCD",
+                    "value": 12840941.09,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1990",
+                    "codigo": "199051",
+                    "label": "DEPÓSITOS JUDICIAIS E ADMINISTRATIVOS SACADOS - LEI ESTADUAL Nº 10.549/2016",
+                    "value": 4222670.93,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1990",
+                    "codigo": "199099",
+                    "label": "OUTRAS RECEITAS",
+                    "value": 18595468.83,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1990",
+                    "codigo": "199012",
+                    "label": "CORREÇÃO MONETÁRIA NÃO TRIBUTÁRIA",
+                    "value": 26264.8,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1990",
+                    "codigo": "199002",
+                    "label": "ENCARGOS LEGAIS PELA INSCRIÇÃO EM DÍVIDA ATIVA E RECEITAS DE ÔNUS DE SUCUMBÊNCIA",
+                    "value": 379369.03,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1990",
+                    "codigo": "199026",
+                    "label": "RECEITA SUPERAVIT EXTRAJUDICIAL",
+                    "value": 10447896.99,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1990",
+                    "codigo": "199005",
+                    "label": "DEPÓSITOS NÃO IDENTIFICADOS CONVERTIDOS EM RECEITA",
+                    "value": 63734.99,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "19",
+            "codigo": "192",
+            "label": "INDENIZAÇÕES E RESTITUIÇÕES",
+            "value": 119450030.68,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "192",
+                "codigo": "1921",
+                "label": "INDENIZAÇÕES",
+                "value": 23092052.89,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1921",
+                    "codigo": "192199",
+                    "label": "OUTRAS INDENIZAÇÕES",
+                    "value": 21958.85,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1921",
+                    "codigo": "192105",
+                    "label": "INDENIZAÇÕES PREVISTAS NA LEGISLAÇÃO SOBRE DEFESA DE DIREITOS DIFUSOS",
+                    "value": 23043787.09,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1921",
+                    "codigo": "192106",
+                    "label": "INDENIZAÇÕES POR DANOS CAUSADOS AO PATRIMÔNIO PÚBLICO",
+                    "value": 15490.95,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1921",
+                    "codigo": "192109",
+                    "label": "INDENIZAÇÕES",
+                    "value": 10816.0,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "192",
+                "codigo": "1922",
+                "label": "RESTITUIÇÕES",
+                "value": 96357977.79,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "1922",
+                    "codigo": "192207",
+                    "label": "RECUPERAÇÃO DE DESPESAS DE EXERCÍCIOS ANTERIORES",
+                    "value": 51303947.85,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1922",
+                    "codigo": "192201",
+                    "label": "RESTITUIÇÕES DE CONVÊNIOS CELEBRADOS ANTES DE 16/05/2013",
+                    "value": 2466185.21,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1922",
+                    "codigo": "192215",
+                    "label": "RESTITUIÇÕES DE CONTRIBUIÇÕES PREVIDENCIÁRIAS (INSS E PREVES)",
+                    "value": 24788.88,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1922",
+                    "codigo": "192203",
+                    "label": "RESTITUIÇÃO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS COMPLEMENTARES",
+                    "value": 1131990.55,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1922",
+                    "codigo": "192208",
+                    "label": "RESTITUIÇÕES SOBRE FOLHA DE PAGAMENTO",
+                    "value": 13061583.64,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1922",
+                    "codigo": "192202",
+                    "label": "RESTITUIÇÕES DE CONVÊNIOS E INSTRUMENTOS CONGENERES CELEBRADOS APÓS 16/05/2013",
+                    "value": 4273690.55,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1922",
+                    "codigo": "192212",
+                    "label": "RECUPERAÇÃO DE DESPESAS DO EXERCÍCIO",
+                    "value": 11206.08,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1922",
+                    "codigo": "192209",
+                    "label": "RESSARCIMENTO DE SALÁRIOS DE SERVIDORES À DISPOSIÇÃO EM OUTRO ORGÃO",
+                    "value": 1105191.9,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1922",
+                    "codigo": "192210",
+                    "label": "COMPENSAÇÕES FINANCEIRAS ENTRE O REGIME GERAL E OS REGIMES PRÓPRIOS DE PREVIDÊNCIA DOS SERVIDORES",
+                    "value": 9660961.3,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1922",
+                    "codigo": "192222",
+                    "label": "DEVOLUÇÃO DE RECURSOS REPASSADOS A MUNICÍPIOS - FUNCOP",
+                    "value": 3898176.77,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "1922",
+                    "codigo": "192299",
+                    "label": "OUTRAS RESTITUIÇÕES",
+                    "value": 9420255.06,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigoPai": null,
+    "codigo": "7",
+    "label": "RECEITAS CORRENTES INTRAORCAMENTÁRIAS",
+    "value": 2264784839.49,
+    "canDrillDown": false,
+    "fillcolor": null,
+    "data": [
+      {
+        "codigoPai": "7",
+        "codigo": "75",
+        "label": "RECEITA INDUSTRIAL",
+        "value": 6262823.74,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "75",
+            "codigo": "752",
+            "label": "RECEITA DA INDÚSTRIA DE TRANSFORMAÇÃO",
+            "value": 6262823.74,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "752",
+                "codigo": "7520",
+                "label": "RECEITA DA INDÚSTRIA DE TRANSFORMAÇÃO",
+                "value": 6262823.74,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "7520",
+                    "codigo": "752029",
+                    "label": "RECEITA DA INDÚSTRIA EDITORIAL E GRÁFICA",
+                    "value": 6262823.74,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "codigoPai": "7",
+        "codigo": "76",
+        "label": "RECEITA DE SERVIÇOS",
+        "value": 11857563.12,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "76",
+            "codigo": "760",
+            "label": "RECEITA DE SERVIÇOS",
+            "value": 11857563.12,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "760",
+                "codigo": "7600",
+                "label": "RECEITA DE SERVIÇOS",
+                "value": 11857563.12,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "7600",
+                    "codigo": "760001",
+                    "label": "SERVIÇOS COMERCIAIS",
+                    "value": 5877.43,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "7600",
+                    "codigo": "760099",
+                    "label": "OUTROS SERVIÇOS",
+                    "value": 650697.68,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "7600",
+                    "codigo": "760008",
+                    "label": "SERVIÇOS DE PROCESSAMENTO DE DADOS",
+                    "value": 11200988.01,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "codigoPai": "7",
+        "codigo": "79",
+        "label": "OUTRAS RECEITAS CORRENTES",
+        "value": 575833.04,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "79",
+            "codigo": "792",
+            "label": "INDENIZAÇÕES E RESTITUIÇÕES",
+            "value": 574098.39,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "792",
+                "codigo": "7922",
+                "label": "RESTITUIÇÕES",
+                "value": 574098.39,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "7922",
+                    "codigo": "792299",
+                    "label": "RECEITA INTRA - OUTRAS RESTITUIÇÕES",
+                    "value": 211638.23,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "7922",
+                    "codigo": "792208",
+                    "label": "RECEITA INTRA - RESTITUIÇÕES SOBRE FOLHA DE PAGAMENTO",
+                    "value": 108950.96,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "7922",
+                    "codigo": "792209",
+                    "label": "RECEITA INTRA - RESSARCIMENTO DE SALÁRIOS DE SERVIDORES À DISPOSIÇÃO EM OUTRO ÓRGÃO DO ESTADO",
+                    "value": 253509.2,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "79",
+            "codigo": "791",
+            "label": "MULTAS E JUROS DE MORA",
+            "value": 1734.65,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "791",
+                "codigo": "7912",
+                "label": "MULTAS E JUROS MORA DAS CONTRIBUIÇÕES",
+                "value": 1734.65,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "7912",
+                    "codigo": "791229",
+                    "label": "MULTAS E JUROS DE MORA DAS CONTRIBUIÇÕES PARA O REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR",
+                    "value": 1734.65,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "codigoPai": "7",
+        "codigo": "72",
+        "label": "RECEITA DE CONTRIBUIÇÕES",
+        "value": 2246088619.59,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "72",
+            "codigo": "721",
+            "label": "CONTRIBUIÇÕES SOCIAIS",
+            "value": 2246088619.59,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "721",
+                "codigo": "7210",
+                "label": "CONTRIBUIÇÕES SOCIAIS",
+                "value": 2246088619.59,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "7210",
+                    "codigo": "721029",
+                    "label": "CONTRIBUIÇÕES PARA O REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR PÚBLICO",
+                    "value": 2246088619.59,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigoPai": null,
+    "codigo": "2",
+    "label": "RECEITAS DE CAPITAL",
+    "value": 367797752.36,
+    "canDrillDown": false,
+    "fillcolor": null,
+    "data": [
+      {
+        "codigoPai": "2",
+        "codigo": "25",
+        "label": "OUTRAS RECEITAS DE CAPITAL",
+        "value": 51257773.66,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "25",
+            "codigo": "259",
+            "label": "OUTRAS RECEITAS",
+            "value": 51257773.66,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "259",
+                "codigo": "2599",
+                "label": "OUTRAS RECEITAS DE CAPITAL",
+                "value": 51257773.66,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "2599",
+                    "codigo": "259901",
+                    "label": "RECEITA DE LEILÃO FUNDAP",
+                    "value": 51257773.66,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "2599",
+                    "codigo": "259999",
+                    "label": "OUTRAS RECEITAS",
+                    "value": 0.0,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "codigoPai": "2",
+        "codigo": "24",
+        "label": "TRANSFERÊNCIAS DE CAPITAL",
+        "value": 69945684.88,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "24",
+            "codigo": "243",
+            "label": "TRANSFERÊNCIAS DE INSTITUIÇÕES PRIVADAS",
+            "value": 20000.0,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "243",
+                "codigo": "2430",
+                "label": "TRANSFERÊNCIAS DE INSTITUIÇÕES PRIVADAS",
+                "value": 20000.0,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "2430",
+                    "codigo": "243001",
+                    "label": "TRANSFERÊNCIAS DE INSTITUIÇÕES PRIVADAS",
+                    "value": 20000.0,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "24",
+            "codigo": "247",
+            "label": "TRANSFERÊNCIAS DE CONVÊNIOS",
+            "value": 24654626.22,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "247",
+                "codigo": "2471",
+                "label": "TRANSFERÊNCIA DE CONVÊNIOS DA UNIÃO E DE SUAS ENTIDADES",
+                "value": 24654626.22,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "2471",
+                    "codigo": "247199",
+                    "label": "OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS DA UNIÃO",
+                    "value": 24533750.13,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "2471",
+                    "codigo": "247103",
+                    "label": "TRANSFERÊNCIAS DE CONVÊNIOS DA UNIÃO DESTINADAS A PROGRAMAS DE SANEAMENTO BÁSICO",
+                    "value": 120876.09,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "24",
+            "codigo": "242",
+            "label": "TRANSFERÊNCIAS INTERGOVERNAMENTAIS",
+            "value": 45271058.66,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "242",
+                "codigo": "2421",
+                "label": "TRANSFERÊNCIAS DA UNIÃO",
+                "value": 45271058.66,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "2421",
+                    "codigo": "242102",
+                    "label": "TRANSFERÊNCIAS DE RECURSOS DESTINADOS A PROGRAMAS DE EDUCAÇÃO",
+                    "value": 4154475.87,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "2421",
+                    "codigo": "242199",
+                    "label": "OUTRAS TRANSFERÊNCIAS DA UNIÃO",
+                    "value": 23260664.79,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "2421",
+                    "codigo": "242138",
+                    "label": "TRANSFERÊNCIAS ADVINDAS DE EMENDAS PARLAMENTARES INDIVIDUAIS",
+                    "value": 3230000.0,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "2421",
+                    "codigo": "242101",
+                    "label": "TRANSFERÊNCIAS DE RECURSOS DO SISTEMA ÚNICO DE SAÚDE ? SUS",
+                    "value": 14625918.0,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "codigoPai": "2",
+        "codigo": "22",
+        "label": "ALIENAÇÃO DE BENS",
+        "value": 5082264.01,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "22",
+            "codigo": "222",
+            "label": "ALIENAÇÃO DE BENS IMÓVEIS",
+            "value": 35821.12,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "222",
+                "codigo": "2227",
+                "label": "ALIENAÇÃO DE BENS IMÓVEIS ADQUIRIDOS COM RECURSOS NÃO VINCULADOS",
+                "value": 35821.12,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "2227",
+                    "codigo": "222799",
+                    "label": "ALIENAÇÃO DE BENS IMÓVEIS ADQUIRIDOS COM RECURSOS NÃO VINCULADOS",
+                    "value": 35821.12,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "22",
+            "codigo": "221",
+            "label": "ALIENAÇÃO DE BENS MÓVEIS",
+            "value": 5046442.89,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "221",
+                "codigo": "2216",
+                "label": "ALIENAÇÃO DE BENS MÓVEIS ADQUIRIDOS COM RECURSOS VINCULADOS",
+                "value": 2355254.54,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "2216",
+                    "codigo": "221699",
+                    "label": "ALIENAÇÃO DE BENS MÓVEIS ADQUIRIDOS COM OUTROS RECURSOS VINCULADOS",
+                    "value": 2355254.54,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "221",
+                "codigo": "2219",
+                "label": "ALIENAÇÃO DE OUTROS BENS MÓVEIS",
+                "value": 1468050.0,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "2219",
+                    "codigo": "221999",
+                    "label": "ALIENAÇÃO DE OUTROS BENS MÓVEIS",
+                    "value": 1468050.0,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              },
+              {
+                "codigoPai": "221",
+                "codigo": "2217",
+                "label": "ALIENAÇÃO DE BENS MÓVEIS ADQUIRIDOS COM RECURSOS NÃO VINCULADOS",
+                "value": 1223138.35,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "2217",
+                    "codigo": "221799",
+                    "label": "ALIENAÇÃO DE BENS MÓVEIS ADQUIRIDOS COM RECURSOS NÃO VINCULADOS",
+                    "value": 1223138.35,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "codigoPai": "2",
+        "codigo": "21",
+        "label": "OPERAÇÕES DE CRÉDITO",
+        "value": 241512029.81,
+        "canDrillDown": false,
+        "fillcolor": null,
+        "data": [
+          {
+            "codigoPai": "21",
+            "codigo": "212",
+            "label": "OPERAÇÕES DE CRÉDITO EXTERNAS",
+            "value": 39697674.54,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "212",
+                "codigo": "2123",
+                "label": "OPERAÇÕES DE CRÉDITO EXTERNAS ? CONTRATUAIS",
+                "value": 39697674.54,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "2123",
+                    "codigo": "212311",
+                    "label": "PROJETO GESTÃO INTEGRADA DE ÁGUAS E PAISAGENS",
+                    "value": 39697674.54,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "codigoPai": "21",
+            "codigo": "211",
+            "label": "OPERAÇÕES DE CRÉDITO INTERNAS",
+            "value": 201814355.27,
+            "canDrillDown": false,
+            "fillcolor": null,
+            "data": [
+              {
+                "codigoPai": "211",
+                "codigo": "2114",
+                "label": "OPERAÇÕES DE CRÉDITO INTERNAS - CONTRATUAIS",
+                "value": 201814355.27,
+                "canDrillDown": false,
+                "fillcolor": null,
+                "data": [
+                  {
+                    "codigoPai": "2114",
+                    "codigo": "211411",
+                    "label": "CEF - PROGRAMAS PRÓ-MORADIA",
+                    "value": 180097.2,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "2114",
+                    "codigo": "211415",
+                    "label": "BNDES - BRT GV",
+                    "value": 19067590.78,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  },
+                  {
+                    "codigoPai": "2114",
+                    "codigo": "211420",
+                    "label": "PROGRAMA ESPECIAL DE APOIO AOS ESTADOS - PROPAE",
+                    "value": 182566667.29,
+                    "canDrillDown": false,
+                    "fillcolor": null,
+                    "data": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

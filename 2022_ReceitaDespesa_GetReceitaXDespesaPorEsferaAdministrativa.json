@@ -1,0 +1,12 @@
+{
+  "despesa": {
+    "empenhada": 22785645317.67,
+    "previsaoInicial": 20273774984.0,
+    "liquidada": 21524275579.16,
+    "paga": 20738294575.05
+  },
+  "receita": {
+    "arrecadada": 24021864598.84,
+    "previsaoInicial": 20273774984.0
+  }
+}
